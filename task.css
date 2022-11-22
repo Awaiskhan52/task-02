@@ -1,0 +1,42 @@
+header{
+    background-color: bisque;
+    text-align: center;
+    height: 50px;
+    padding-top:6px ;
+    margin-bottom: 0px !important;
+    }
+.nav{
+    margin-bottom: 0px !important;
+}
+h1{
+    background-color:bisque;
+    text-align: center;
+    height: 50px;
+    padding-top:6px ;
+
+}
+table{
+    background-color: white;
+    height: 350px;
+    width: 100%;
+    border: 2px solid white;
+
+}
+td{
+    background-color:  bisque;
+    text-align: center;
+    border: 2px solid white;b
+   
+}
+tr .center{
+    color: black;
+    width: 800px;
+    
+}
+footer{
+
+    background-color: bisque;
+    text-align:center;
+    height: 50px;
+    text-align: center;
+}
